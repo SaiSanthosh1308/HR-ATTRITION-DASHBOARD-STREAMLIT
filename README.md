@@ -47,8 +47,10 @@ Part of a growing portfolio of interactive analytics dashboards built as I work 
 
 ## 📸 Dashboard Preview
 
-| **Explore Tab** | **Predict Tab** |
-| :---: | :---: |
-| !Explore Tab Preview <img width="1400" height="1200" alt="explore" src="https://github.com/user-attachments/assets/e2786f17-0428-4058-bc7d-ef2a27b10eff" /> |
-| ! Predict Tab Preview <img width="1400" height="1200" alt="predict" src="https://github.com/user-attachments/assets/026b29ac-7d10-4a2d-9114-9cd1b15a3c9f" /> |
+| **Explore Tab** |
+| :---: |
+| Explore Tab Preview <img width="1400" height="1200" alt="explore" src="https://github.com/user-attachments/assets/e2786f17-0428-4058-bc7d-ef2a27b10eff" /> |
+| **Predict Tab** |
+| :---: |
+| Predict Tab Preview <img width="1400" height="1200" alt="predict" src="https://github.com/user-attachments/assets/026b29ac-7d10-4a2d-9114-9cd1b15a3c9f" /> |
 
