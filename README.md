@@ -49,4 +49,4 @@ Part of a growing portfolio of interactive analytics dashboards built as I work 
 
 | **Explore Tab** | **Predict Tab** |
 | :---: | :---: |
-| ![Explore Tab Preview]("F:\PROJECTS\HR ATTRITION\explore.png") |
+| ("F:\PROJECTS\HR ATTRITION\explore.png") |
