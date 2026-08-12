@@ -44,3 +44,9 @@ streamlit run app.py
 ## About This Project
 
 Part of a growing portfolio of interactive analytics dashboards built as I work toward a data analyst role — combining exploratory analysis with a live, trainable prediction model for a classic HR business problem.
+
+## 📸 Dashboard Preview
+
+| **Explore Tab** | **Predict Tab** |
+| :---: | :---: |
+| ![Explore Tab Preview]("F:\PROJECTS\HR ATTRITION\explore.png") |
