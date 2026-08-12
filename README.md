@@ -49,4 +49,6 @@ Part of a growing portfolio of interactive analytics dashboards built as I work 
 
 | **Explore Tab** | **Predict Tab** |
 | :---: | :---: |
-| ("F:\PROJECTS\HR ATTRITION\explore.png") |
+| ![Explore Tab Preview](<img width="1400" height="1200" alt="explore" src="https://github.com/user-attachments/assets/e2786f17-0428-4058-bc7d-ef2a27b10eff" />
+) |
+
