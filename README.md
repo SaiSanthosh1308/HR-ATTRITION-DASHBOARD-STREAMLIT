@@ -2,7 +2,7 @@
 
 An interactive dashboard for exploring employee attrition patterns and predicting flight risk, built with **Python + Streamlit** on the IBM HR Analytics dataset.
 
-🔗 **Live demo:** _[add your Streamlit Community Cloud link here after deploying]_
+🔗 **Live demo:** [https://hr-attrition-dashboard-app-dkexz9bnk5avbasssgpfnd.streamlit.app/]
 
 ## Features
 
